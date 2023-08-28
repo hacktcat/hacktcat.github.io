@@ -13,6 +13,7 @@
 2. Chinese
 3. Spanish
 4. Dutch
+5. Arabic (In the works)
 
 ## Characters Involved 
 
@@ -36,4 +37,34 @@
 6. Flower Rat
 7. Cowboy Rat
 8. Rackerhat Ltd.
-9. Rackerhat Chief 
+9. Rackerhat Chief
+
+## Credits 
+#### API(s) Used: 
+1. https://catapi--xjrfttp5cz.repl.co/
+   
+#### API Provider(s):
+1. Cat Generator API - cazzo
+
+#### Bot Owner 
+1. AtlasL
+
+#### Translators
+1. Chinese Translator - AtlasL
+2. Spanish Translator - Thomaaaas
+3. Dutch Translator - Enderjay280
+4. Arabic Translator - ajaleos 
+
+#### System Testers - 1st Round
+1. beffo
+2. Thomaaaas
+3. Frost5ive
+4. Entity
+5. ajaleos
+6. Enderjay280
+7. evelyne
+8. Ikeaaa
+
+#### System Testers - 2nd Round
+1. Frost5ive
+2. evelyne
