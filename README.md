@@ -69,3 +69,10 @@
 #### System Testers - 2nd Round
 - Frost5ive
 - evelyne
+
+## Links 
+- Support Server: https://dsc.gg/hackthecat
+- Website: https://hacktcat.github.io/
+- GitHub: https://github.com/hacktcat or https://github.com/AtlasL1
+- Main GitHub Repository: https://github.com/hacktcat/hacktcat.github.io
+- Pinterest: https://pin.it/4VCFyR0
