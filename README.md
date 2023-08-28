@@ -9,62 +9,62 @@
 </p>
 
 ## Available Languages 
-1. English (The default)
-2. Chinese
-3. Spanish
-4. Dutch
-5. Arabic (In the works)
+- English (The default)
+- Chinese
+- Spanish
+- Dutch
+- Arabic (In the works)
 
 ## Characters Involved 
 
 #### Cats
-1. Hack the Cat (Main)
-2. Orange Cat
-3. White Cat
-4. Broke Cat
-5. Λstro Cat
-6. Sailor Cat
-7. Neurodivergent Cat
-8. Cyberclaw & Co.
-9. Cyberclaw Commander
+- Hack the Cat (Main)
+- Orange Cat
+- White Cat
+- Broke Cat
+- Λstro Cat
+- Sailor Cat
+- Neurodivergent Cat
+- Cyberclaw & Co.
+- Cyberclaw Commander
 
 #### Rats 
-1. Hack the Rat
-2. Blue Rat
-3. White Rat
-4. Twin Rats
-5. Parent Rats
-6. Flower Rat
-7. Cowboy Rat
-8. Rackerhat Ltd.
-9. Rackerhat Chief
+- Hack the Rat
+- Blue Rat
+- White Rat
+- Twin Rats
+- Parent Rats
+- Flower Rat
+- Cowboy Rat
+- Rackerhat Ltd.
+- Rackerhat Chief
 
 ## Credits 
 #### API(s) Used: 
-1. https://catapi--xjrfttp5cz.repl.co/
+- https://catapi--xjrfttp5cz.repl.co/
    
 #### API Provider(s):
-1. Cat Generator API - cazzo
+- Cat Generator API - cazzo
 
 #### Bot Owner 
-1. AtlasL
+- AtlasL
 
 #### Translators
-1. Chinese Translator - AtlasL
-2. Spanish Translator - Thomaaaas
-3. Dutch Translator - Enderjay280
-4. Arabic Translator - ajaleos 
+- Chinese Translator - AtlasL
+- Spanish Translator - Thomaaaas
+- Dutch Translator - Enderjay280
+- Arabic Translator - ajaleos 
 
 #### System Testers - 1st Round
-1. beffo
-2. Thomaaaas
-3. Frost5ive
-4. Entity
-5. ajaleos
-6. Enderjay280
-7. evelyne
-8. Ikeaaa
+- beffo
+- Thomaaaas
+- Frost5ive
+- Entity
+- ajaleos
+- Enderjay280
+- evelyne
+- Ikeaaa
 
 #### System Testers - 2nd Round
-1. Frost5ive
-2. evelyne
+- Frost5ive
+- evelyne
