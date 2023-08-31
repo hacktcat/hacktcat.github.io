@@ -42,10 +42,12 @@
 ## Credits 
 #### API(s) Used: 
 - https://catapi--xjrfttp5cz.repl.co/
+- https://captchaapi.h1jr1s.repl.co/captcha?text=captchaTest
 - https://api.nasa.gov/
    
 #### API Provider(s):
 - Cat Generator API - cazzo
+- Captcha Generator API - un1que
 
 #### Bot Owner 
 - AtlasL
@@ -72,6 +74,7 @@
 
 ## Links 
 - Support Server: https://dsc.gg/hackthecat
+- Bot Invite: https://dsc.gg/hacktcat
 - Website: https://hacktcat.github.io/
 - GitHub: https://github.com/hacktcat or https://github.com/AtlasL1
 - Main GitHub Repository: https://github.com/hacktcat/hacktcat.github.io
